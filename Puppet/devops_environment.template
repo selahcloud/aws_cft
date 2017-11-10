@@ -617,7 +617,7 @@
                                 "apt-get install -y git\n",
                                 "git clone https://github.com/barracudanetworks/waf-automation.git /root/waf-automation/\n",
                                 "cp /root/waf-automation/aws-puppet-waf-hands_on_lab/misc/credentials /root/.aws/\n",
-                                "cp /root/waf-automation/aws-puppet-waf-hands_on_lab/misc/config /root/.aws/\n"
+                                "cp /root/waf-automation/aws-puppet-waf-hands_on_lab/misc/config /root/.aws/\n",
                                 "EOF"
                             ]
                         ]
